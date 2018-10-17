@@ -1,0 +1,10 @@
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\bin\Debug\SaveFileTXT.exe.config
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\bin\Debug\SaveFileTXT.exe
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\bin\Debug\SaveFileTXT.pdb
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\obj\Debug\SaveFileTXT.csprojAssemblyReference.cache
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\obj\Debug\SaveFileTXT.Form1.resources
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\obj\Debug\SaveFileTXT.Properties.Resources.resources
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\obj\Debug\SaveFileTXT.csproj.GenerateResource.cache
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\obj\Debug\SaveFileTXT.csproj.CoreCompileInputs.cache
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\obj\Debug\SaveFileTXT.exe
+C:\Users\mohammad.moslemzadeh\source\repos\SaveFileTXT\SaveFileTXT\obj\Debug\SaveFileTXT.pdb
